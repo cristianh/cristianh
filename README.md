@@ -26,8 +26,16 @@ Este sitio se construyó usando [GitHub Pages](https://pages.github.com/).
 -->
 
 
+<!--  Imagen
+Añade a la estructura link el caracter '!'
+Ej:
+![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
+-->
 
 
+
+
+![Esta es una imagen](./Avatar.png)
 # Cristian Alberto Hernandez
 ## ¡Hola! 👋 Bienvenidos a mi perfil de Github!
 
