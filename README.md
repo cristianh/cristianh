@@ -1,7 +1,20 @@
-# Hola 👋, Yo soy Cristian Alberto Hernández #
+# Hi! 👋, I'm Cristian Alberto Hernández #
 
 # 💫 About Me:
-Sobre mi<br>Apasionado por la programación y la tecnología, soy Desarrollador Web con conocimientos en varias tecnologías enfocadas al FrontEnd y al BackEnd. Entusiasta con deseos de aportar soluciones a los diferentes proyectos que se presenten, Vivo en la ciudad de Armenia - Quindío.<br><br>He realizado diferentes proyectos para varias empresas, los cuales me han permitido mejorar mis habilidades como Desarrollador Web, mi experiencia laboral inicia desde el 2011, integrando un equipo multidisciplinario de profesionales con diferentes perfiles, Que aportaron toda su experiencia y conocimiento y me han permitido mejorar en mi labor.<br><br>🌱 Actualmente me encuentro aprendiendo: React, Meteor.js<br><br>👨‍💻 Puedes ver todos mis proyectos en: https://cristianhernandezhv.netlify.app/portafolio<br><br>💬 Preguntame sobre VUE.JS HTML , JAVASCRIPT , FIREBASE<br><br>📫 Si quieres saber de mi https://cristianhernandezhv.netlify.app/sobre_mi
+
+Passionate about programming and technology, I am a Web Developer with knowledge in various technologies focused on FrontEnd and BackEnd. Enthusiastic with desire to provide solutions to the different projects that arise, I live in the city of Armenia - Quindío.
+
+I have done different projects for several companies, which have allowed me to improve my skills as a Web Developer, my work experience starts since 2011, integrating a multidisciplinary team of professionals with different profiles, Who brought all their experience and knowledge and have allowed me to improve in my work.
+
+🌱 Currently I am learning: React, Meteor.js
+
+👨‍💻 You can see all my projects at: https://cristianhernandezhv.netlify.app/portafolio
+
+💬 Ask me about VUE.JS HTML , JAVASCRIPT , FIREBASE
+
+📫 If you want to know about me https://cristianhernandezhv.netlify.app/sobre_mi
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 ## 🌐 Socials:
@@ -15,10 +28,7 @@ Sobre mi<br>Apasionado por la programación y la tecnología, soy Desarrollador 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianhdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cristianhdev&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=cristianhdev&title=Repositories,Commits&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cristianhdev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
